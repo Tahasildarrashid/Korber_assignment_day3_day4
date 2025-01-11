@@ -20,8 +20,5 @@ public class MathematicalProblem {
         finally {
             System.out.println("Inside finally block");
         }
-
-
-
     }
 }
